@@ -20,11 +20,11 @@ public class Position {
 		this.row = row;
 	}
 
-	public int getColumm() {
+	public int getColumn() {
 		return column;
 	}
 
-	public void setColumm(int column) {
+	public void setColumn(int column) {
 		this.column = column;
 	}
 	
